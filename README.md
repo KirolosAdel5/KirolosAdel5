@@ -9,3 +9,5 @@ I'm a software engineer who is passionate about making open-source more accessib
 - ⚡ Fun fact: ... The Best is yet to come..! Work Hard,Have Fun, Make History💪
 
 ## Find me around the web 🌎:<img align="left" width="150" height="150" src="https://octodex.github.com/images/red-polo.png?raw=true">
+-  <a href="https://twitter.com/AdelKerelos">Twitter</a> 
+-  <a href="https://www.linkedin.com/in/keroo-adel-374824198/">Linkedin</a> 

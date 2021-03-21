@@ -8,4 +8,4 @@ I'm a software engineer who is passionate about making open-source more accessib
 - 🌱 I’m currently learning ... web application , django ,desktop application 
 - ⚡ Fun fact: ... The Best is yet to come..! Work Hard,Have Fun, Make History💪
 
-## Find me around the web 🌎:<img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true">
+## Find me around the web 🌎:<img align="left" width="150" height="150" src="https://octodex.github.com/images/red-polo.png?raw=true">
